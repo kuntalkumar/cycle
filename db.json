@@ -23,7 +23,7 @@
       "type": "coffee",
       "price": 4.49,
       "description": "Perfetto Moka Cioccolato ground coffee is the perfect coffee for your Moka pot.A gourmet coffee flavored with chocolate, with an unmistakable taste and aroma, highlighted even more by a fine, elegant structure.",
-      "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/c/i/cioccolato_2.png"
+      "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/e/perfetto-moka-new-cioccolato.png"
     },
     {
       "id": 4,
@@ -63,7 +63,7 @@
       "type": "coffee",
       "price": 6.49,
       "description": "Perfetto Moka Decaffeinato ground coffee is the perfect decaffeinated coffee for your Moka pot.",
-      "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/e/deka_1.png"
+      "image": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/e/perfetto-moka-new-deka.png"
     },
     {
       "id": 9,
